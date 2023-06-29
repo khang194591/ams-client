@@ -1,0 +1,14 @@
+{
+  "material-icon-theme.folders.associations": {
+    "bussiness": "core",
+    "store": "context",
+    "stores": "context",
+    "composable": "hook",
+    "composables": "hook"
+  },
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{namespaces}/{locale}.json",
+  "i18n-ally.localesPaths": ["src/locales"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": ["axios", "composables", "fullname", "Khang", "pinia", "Sider", "tabler", "VITE", "vueuse"]
+}

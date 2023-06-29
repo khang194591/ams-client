@@ -1,0 +1,34 @@
+{
+  "action": {
+    "signIn": "ログイン",
+    "signUp": "サインアップ",
+    "signOut": "サインアウト"
+  },
+  "form": {
+    "name": {
+      "label": "名前",
+      "placeholder": "名前を入力"
+    },
+    "email": {
+      "label": "Eメール",
+      "placeholder": "メールアドレスを入力して"
+    },
+    "password": {
+      "label": "パスワード",
+      "placeholder": "パスワードを入力する"
+    }
+  },
+  "message": {
+    "signInSuccess": "サインイン成功",
+    "signUpSuccess": "サインアップ成功"
+  },
+  "text": {
+    "forgotPassword": "パスワードをお忘れですか",
+    "doNotHaveAccount": "アカウントを持っていませんか？",
+    "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+    "createNewAccount": "新しいアカウントを作成する",
+    "signInNow": "今すぐサインイン！",
+    "forgotPasswordHint": "メールを入力して、パスワードをリセットする手順を送信します",
+    "backToSignIn": "サインインするには戻ります"
+  }
+}

@@ -1,0 +1,10 @@
+services:
+  ams-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ams-client
+    container_name: ams-client
+    restart: always
+    ports: 
+      - 80:80
